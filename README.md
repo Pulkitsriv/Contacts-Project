@@ -1,3 +1,4 @@
+All the features are working on a already uploaded CSV file included in public folder
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
